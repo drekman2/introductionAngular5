@@ -24,6 +24,7 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+/nbproject
 
 # misc
 /.sass-cache
@@ -42,3 +43,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/nbproject/private/
